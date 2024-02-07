@@ -5,6 +5,6 @@
 2) <a href="https://www.geeksforgeeks.org/supervised-unsupervised-learning/" class="underline-link">What are supervised and unsupervised learning</a><br>
 
 <h2>General Concepts</h2>
-- What is ML?
-- What are ML categories?
+- What is ML?<br>
+- What are ML categories?<br>
 - What are differences between each category?
