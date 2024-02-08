@@ -33,22 +33,3 @@ try:
 
 except Exception as e:
     print(f"An error occured: {e}")
-
-import seaborn as sns
-import matplotlib.pyplot as plt
-
-# Load the iris dataset
-iris = sns.load_dataset('iris')
-
-# Create pairplot with hue='species' to color by species
-sns.pairplot(iris, hue='species')
-
-# Show the plot
-plt.show()
-
-
-# import sklearn.datasets
-
-# data, target = sklearn.datasets.load_iris(return_X_y=True, as_frame=True)
-# data["target"] = target
-# print(data)

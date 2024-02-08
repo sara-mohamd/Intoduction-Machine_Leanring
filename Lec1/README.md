@@ -4,4 +4,4 @@
 - What is head()?<br>
 - What is describe and info methods?<br>
 - How to get min, max and mean value?<br>
-- Different Grapghs and Diagrams analysis data
+- Different Grapghs and Diagrams analysis data?
